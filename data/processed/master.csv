@@ -1,0 +1,159 @@
+Date,Workout,Weight,Reps,Sets
+2024-02-19,Incline Bench Barbell Press,85.0,5.0,1.0
+2024-02-19,Seated Dips,120.0,15.0,1.0
+2024-02-19,Overhead Barbell Press,32.5,15.0,1.0
+2024-02-21,Hip Abduction,100.0,15.0,1.0
+2024-02-21,Leg Press,230.0,15.0,1.0
+2024-02-21,Leg Extentions,130.0,15.0,1.0
+2024-02-26,Pulldowns,50.0,8.0,1.0
+2024-02-26,Ab Curls,85.0,15.0,1.0
+2024-02-26,Barbell Curls,30.0,8.0,1.0
+2024-02-28,Leg Press,140.0,15.0,1.0
+2024-02-28,Leg Extentions,130.0,15.0,1.0
+2024-02-28,Hip Adduction,100.0,15.0,1.0
+2024-03-06,Flat Bench Barbell Press,105.0,10.0,1.0
+2024-03-06,Lateral Raise,40.0,15.0,1.0
+2024-03-06,Seated Dips,130.0,15.0,1.0
+2024-03-09,Barbell Squats,205.0,10.0,1.0
+2024-03-18,Rows,85.0,15.0,1.0
+2024-03-18,Barbell Curls,55.0,7.0,1.0
+2024-03-25,Seated Chest Press,70.0,10.0,1.0
+2024-03-25,Overhead Barbell Press,45.0,15.0,1.0
+2024-04-08,Decline Bench Barbell Press,85.0,5.0,5.0
+2024-04-08,Incline Bench Barbell Press,75.0,10.0,3.0
+2024-04-08,Seated Chest Press,47.5,10.0,3.0
+2024-04-09,Barbell Squats,135.0,10.0,4.0
+2024-04-09,Seated Leg Curls,77.5,10.0,4.0
+2024-04-09,Glute Extentions,25.0,10.0,4.0
+2024-04-10,Barbell Curls,50.0,8.0,4.0
+2024-04-10,Tricep Cable Pulls,25.0,12.0,4.0
+2024-04-10,Lateral Raise,30.0,8.0,4.0
+2024-04-12,Seated Chest Press,55.0,10.0,2.0
+2024-04-12,Rows,100.0,10.0,4.0
+2024-04-12,Hip Abduction,145.0,10.0,3.0
+2024-04-12,Pulldowns,100.0,10.0,4.0
+2024-04-12,Back Extentions,250.0,10.0,3.0
+2024-04-15,Decline Bench Barbell Press,85.0,10.0,4.0
+2024-04-15,Flat Bench Barbell Press,85.0,10.0,4.0
+2024-04-15,Iso-Lateral Bench Press,15.0,10.0,4.0
+2024-04-16,Lat Pulls,95.0,7.0,4.0
+2024-04-16,Overhead Barbell Press,70.0,10.0,4.0
+2024-04-16,Tricep Cable Pulls,27.5,10.0,4.0
+2024-04-17,Barbell Squats,155.0,10.0,4.0
+2024-04-17,Leg Extentions,120.0,12.0,4.0
+2024-04-17,Prone Leg Curls,70.0,10.0,4.0
+2024-04-18,Barbell Deadlifts,135.0,10.0,4.0
+2024-04-18,Rows,107.5,10.0,4.0
+2024-04-18,Lateral Raise,60.0,10.0,4.0
+2024-04-22,Flat Bench Barbell Press,95.0,10.0,4.0
+2024-04-22,Incline Bench Barbell Press,95.0,10.0,2.0
+2024-04-22,Sit-Ups,0.0,20.0,4.0
+2024-04-23,Barbell Deadlifts,155.0,10.0,4.0
+2024-04-23,Rows,42.5,10.0,4.0
+2024-04-23,Pulldowns,70.0,10.0,4.0
+2024-04-24,Overhead Barbell Press,45.0,12.0,4.0
+2024-04-24,Barbell Curls,27.5,12.0,4.0
+2024-04-24,Tricep Cable Pulls,32.5,12.0,4.0
+2024-04-29,Overhead Barbell Press,55.0,10.0,4.0
+2024-04-29,Leg Press,230.0,10.0,4.0
+2024-04-30,Barbell Deadlifts,185.0,8.0,3.0
+2024-04-30,Rear Deltoid,55.0,10.0,4.0
+2024-04-30,Rows,115.0,10.0,4.0
+2024-05-01,Flat Bench Barbell Press,95.0,10.0,4.0
+2024-05-01,Pectoral Fly,70.0,20.0,2.0
+2024-05-01,Dips,55.0,10.0,4.0
+2024-05-02,Overheard Barbell Press,65.0,10.0,4.0
+2024-05-02,Barbell Curls,30.0,10.0,4.0
+2024-05-02,Seated Dips,130.0,10.0,4.0
+2024-05-03,Leg Press,225.0,10.0,4.0
+2024-05-03,Seated Leg Curl,85.0,10.0,4.0
+2024-05-03,Leg Extentions,140.0,10.0,4.0
+2024-05-06,Seated Chest Press,80.0,10.0,4.0
+2024-05-06,Seated Dips,130.0,10.0,4.0
+2024-05-07,Barbell Deadlifts,185.0,8.0,4.0
+2024-05-07,Rows,115.0,10.0,4.0
+2024-05-07,Rear Deltoid,55.0,10.0,4.0
+2024-05-09,Lateral Raise,32.5,10.0,4.0
+2024-05-09,Barbell Curls,30.0,10.0,3.0
+2024-05-09,Tricep Cable Pulls,30.0,10.0,4.0
+2024-05-12,Barbell Squats,155.0,10.0,4.0
+2024-05-12,Romanian Deadlifts,135.0,10.0,4.0
+2024-05-13,Flat Bench Barbell Press,105.0,10.0,4.0
+2024-05-13,Pectoral Fly,85.0,10.0,4.0
+2024-05-13,Dips,37.5,10.0,4.0
+2024-06-17,Flat Bench Barbell Press,95.0,10.0,4.0
+2024-06-17,Barbell Squats,135.0,10.0,4.0
+2024-06-17,Rows,84.0,10.0,4.0
+2024-06-18,Barbell Curls,50.0,10.0,4.0
+2024-06-23,Seated Chest Press,95.0,10.0,4.0
+2024-08-28,Decline Bench Barbell Press,65.0,12.0,4.0
+2024-08-28,Seated Chest Press,40.0,12.0,4.0
+2024-09-03,Bent Over Barbell Row,50.0,10.0,4.0
+2024-09-03,Barbell Deadlifts,110.0,10.0,4.0
+2024-09-04,Dumbell Curls,25.0,12.0,4.0
+2024-09-04,Tricep Cable Pulls,48.0,12.0,4.0
+2024-09-04,Overhead Barbell Press,40.0,12.0,4.0
+2024-09-09,Flat Bench Barbell Press,95.0,10.0,4.0
+2024-09-09,Incline Bench Barbell Press,95.0,10.0,4.0
+2024-09-10,Barbell Squats,135.0,10.0,3.0
+2024-09-10,Hip Abduction,145.0,10.0,3.0
+2024-09-10,Sit-Ups,55.0,10.0,3.0
+2024-09-16,Seated Chest Press,95.0,10.0,4.0
+2024-09-16,Decline Bench Barbell Press,95.0,10.0,4.0
+2024-09-17,Barbell Squats,135.0,8.0,4.0
+2024-09-17,Prone Leg Curls,55.0,10.0,4.0
+2024-09-17,Leg Press,135.0,10.0,4.0
+2024-09-19,Barbell Deadlifts,110.0,10.0,4.0
+2024-09-20,Tricep Cable Pulls,85.0,5.0,4.0
+2024-09-21,Overhead Dumbell Press,20.0,10.0,4.0
+2024-09-21,Dumbell Side Raises,10.0,11.0,4.0
+2024-09-24,Flat Bench Dumbell Press,30.0,11.0,4.0
+2024-09-24,Incline Bench Dumbell Press,25.0,14.0,4.0
+2024-09-24,Barbell Squats,185.0,10.0,4.0
+2024-09-25,Barbell Deadlifts,50.0,8.0,4.0
+2024-09-25,Pulldowns,100.0,9.0,4.0
+2024-09-26,Dumbell Curls,30.0,8.0,4.0
+2024-09-26,Tricep Cable Pulls,72.0,15.0,4.0
+2024-09-28,Overhead Dumbell Press,25.0,11.0,4.0
+2024-09-28,Dumbell Side Raises,10.0,17.0,4.0
+2024-09-28,Dumbell Front Raises,15.0,20.0,4.0
+2024-09-30,Smith Machine Flat Bench Press,115.0,12.0,4.0
+2024-09-30,Smith Machine Incline Bench Press,95.0,10.0,4.0
+2024-10-01,Barbell Squats,185.0,10.0,4.0
+2024-10-01,Prone Leg Curls,60.0,12.0,4.0
+2024-10-01,Leg Extentions,115.0,7.0,4.0
+2024-10-02,Barbell Deadlifts,70.0,10.0,4.0
+2024-10-02,Rows,160.0,12.0,4.0
+2024-10-02,Pulldowns,100.0,8.0,4.0
+2024-10-04,Dumbell Curls,30.0,9.0,4.0
+2024-10-04,Tricep Cable Pulls,84.0,15.0,4.0
+2024-10-05,Overhead Dumbell Press,30.0,12.0,4.0
+2024-10-05,Dumbell Side Raises,15.0,17.0,4.0
+2024-10-05,Dumbell Front Raises,20.0,20.0,4.0
+2024-10-07,Decline Bench Barbell Press,95.0,20.0,4.0
+2024-10-07,Incline Bench Barbell Press,95.0,10.0,4.0
+2024-10-07,Seated Chest Press,95.0,8.0,4.0
+2024-10-10,Pulldowns,100.0,12.0,4.0
+2024-10-10,Rows,160.0,10.0,4.0
+2024-10-11,Dumbell Curls,25.0,20.0,4.0
+2024-10-11,Tricep Cable Pulls,42.5,17.0,4.0
+2024-10-11,Barbell Curls,60.0,12.0,4.0
+2024-10-11,Seated Dips,130.0,12.0,4.0
+2024-10-15,Seated Chest Press,110.0,12.0,4.0
+2024-10-15,Barbell Squats,185.0,8.0,4.0
+2024-10-16,Pulldowns,100.0,11.0,4.0
+2024-10-17,Barbell Curls,50.0,11.0,4.0
+2024-10-17,Seated Dips,130.0,14.0,4.0
+2024-10-24,Dumbell Side Raises,55.0,12.0,4.0
+2024-10-24,Overhead Barbell Press,45.0,10.0,4.0
+2024-10-24,Dumbell Front Raises,10.0,15.0,4.0
+2024-10-25,Rows,100.0,12.0,4.0
+2024-10-25,Dumbell Curls,25.0,10.0,4.0
+2024-10-28,Smith Machine Flat Bench Press,115.0,10.0,4.0
+2024-10-28,Smith Machine Incline Bench Press,95.0,10.0,4.0
+2024-10-29,Leg Press,160.0,10.0,4.0
+2024-10-29,Prone Leg Curls,70.0,10.0,4.0
+2024-10-29,Leg Extentions,130.0,10.0,4.0
+2024-11-11,Smith Machine Flat Bench Press,135.0,10.0,4.0
+2024-11-11,Smith Machine Incline Bench Press,95.0,7.0,4.0
+2024-11-12,Smith Machine Squats,185.0,8.0,4.0
